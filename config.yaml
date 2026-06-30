@@ -67,7 +67,13 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
+- syllabus.md
+- getting-started.md
+- foundations-of-location-intelligence.md
+- trade-areas-and-customer-geography.md
+- site-selection-and-suitability-analysis.md
+- reporting-and-story-telling.md
+- capstone-project.md
 
 # Information for Learners
 learners: 
