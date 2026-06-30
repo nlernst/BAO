@@ -69,11 +69,6 @@ contact: 'team@carpentries.org' # FIXME
 episodes: 
 - syllabus.md
 - getting-started.md
-- foundations-of-location-intelligence.md
-- trade-areas-and-customer-geography.md
-- site-selection-and-suitability-analysis.md
-- reporting-and-story-telling.md
-- capstone-project.md
 
 # Information for Learners
 learners: 
